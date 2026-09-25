@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Cursor AI rules (local only)
+.cursor/
+
+# Local reference library (2.1 GB, copyrighted books, private files) - never commit
+docs/
